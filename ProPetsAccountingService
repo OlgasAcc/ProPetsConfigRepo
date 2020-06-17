@@ -1,0 +1,8 @@
+spring.data.mongodb.uri=mongodb+srv://olga_31:olga_31@propets-ov8jo.mongodb.net/ProPets?retryWrites=true&w=majority
+
+jwt.secret=tratata
+jwt.expPeriodValue=720
+#spring.jmx.enabled=true
+
+management.endpoints.web.exposure.include=*
+management.endpoint.shutdown.enabled=true
