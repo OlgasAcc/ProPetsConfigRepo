@@ -2,7 +2,7 @@ spring.data.mongodb.uri=mongodb+srv://olga_31:olga_31@propets-ov8jo.mongodb.net/
 
 jwt.secret=tratata
 jwt.expPeriodValue=720
-jwt.message=imsuperher
+jwt.message=imsuperhero
 
 #spring.jmx.enabled=true
 
