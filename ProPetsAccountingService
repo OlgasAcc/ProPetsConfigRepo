@@ -6,5 +6,5 @@ jwt.message=imhero
 
 #spring.jmx.enabled=true
 
-management.endpoints.web.exposure.include=*
-management.endpoint.shutdown.enabled=true
+#management.endpoints.web.exposure.include=refresh
+#management.endpoint.shutdown.enabled=true
